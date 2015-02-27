@@ -1,7 +1,7 @@
 {
   "name": "simple-xml-dom",
-  "version": "0.0.0",
-  "description": "A thin wrapper around DOMParser and XMLSerializer.",
+  "version": "1.0.0",
+  "description": "A thin wrapper around DOMParser and XMLSerializer for node and the browser.",
   "main": "index.js",
   "browser": {
     "./serialize.js": "./browser/serialize.js",
