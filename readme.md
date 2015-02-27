@@ -8,6 +8,7 @@ simple-xml-dom is a thin wrapper around [DOMParser](https://developer.mozilla.or
 ``` sh
 $ npm install simple-xml-dom
 ```
+**note: xmldom is not installed alongside simple-xml-dom**
 
 ### Usage
 
