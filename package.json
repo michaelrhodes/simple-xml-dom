@@ -1,5 +1,5 @@
 {
-  "name": "simple-xmldom",
+  "name": "simple-xml-dom",
   "version": "0.0.0",
   "description": "A thin wrapper around DOMParser and XMLSerializer.",
   "main": "index.js",
@@ -12,7 +12,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git@github.com:michaelrhodes/simple-xmldom.git"
+    "url": "git@github.com:michaelrhodes/simple-xml-dom.git"
   },
   "keywords": [
     "xmldom",
@@ -22,9 +22,9 @@
   "author": "Michael Rhodes",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/michaelrhodes/simple-xmldom/issues"
+    "url": "https://github.com/michaelrhodes/simple-xml-dom/issues"
   },
-  "homepage": "https://github.com/michaelrhodes/simple-xmldom",
+  "homepage": "https://github.com/michaelrhodes/simple-xml-dom",
   "devDependencies": {
     "brfs": "^1.4.0",
     "tape": "^3.5.0"
