@@ -27,7 +27,8 @@
   "homepage": "https://github.com/michaelrhodes/simple-xml-dom",
   "devDependencies": {
     "brfs": "^1.4.0",
-    "tape": "^3.5.0"
+    "tape": "^3.5.0",
+    "xmldom": "~0.1.19"
   },
   "peerDependencies": {
     "xmldom": "~0.1.19"
