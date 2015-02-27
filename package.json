@@ -1,0 +1,35 @@
+{
+  "name": "simple-xmldom",
+  "version": "0.0.0",
+  "description": "A thin wrapper around DOMParser and XMLSerializer.",
+  "main": "index.js",
+  "browser": {
+    "./serialize.js": "./browser/serialize.js",
+    "./parse.js": "./browser/parse.js"
+  },
+  "scripts": {
+    "test": "tape test/*.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:michaelrhodes/simple-xmldom.git"
+  },
+  "keywords": [
+    "xmldom",
+    "domparser",
+    "xmlserializer"
+  ],
+  "author": "Michael Rhodes",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/michaelrhodes/simple-xmldom/issues"
+  },
+  "homepage": "https://github.com/michaelrhodes/simple-xmldom",
+  "devDependencies": {
+    "brfs": "^1.4.0",
+    "tape": "^3.5.0"
+  },
+  "peerDependencies": {
+    "xmldom": "~0.1.19"
+  }
+}
